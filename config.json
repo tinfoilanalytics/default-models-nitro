@@ -9,6 +9,7 @@
         "/api/chat",
         "/v1/chat/completions",
         "/api/generate",
-        "/api/embed"
+        "/api/embed",
+        "/v1/embeddings"
     ]
 }

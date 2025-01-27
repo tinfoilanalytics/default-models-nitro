@@ -20,6 +20,7 @@ And exposes the following endpoints for inference:
 - `/v1/chat/completions`
 - `/api/generate`
 - `/api/embed`
+- `/v1/embeddings`
 
 As shown in `config.json`.
 
