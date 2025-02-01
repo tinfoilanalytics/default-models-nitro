@@ -31,5 +31,5 @@ If you want to run a different set of models and/or expose a different set of en
 1. Click "Use this template" to create a new repository
 2. Edit `config.json` to customize:
     - `models`: Any model from Ollama's [library](https://ollama.com/library)
-    - `paths`: API endpoints from Ollama's [API documentation](https://ollama.ai/docs/api) you want to expose
+    - `paths`: API endpoints from Ollama's [API documentation](https://github.com/ollama/ollama/blob/main/docs/api.md) you want to expose
 3. Create a release tag (e.g. `v0.0.1`) to trigger the build workflow
